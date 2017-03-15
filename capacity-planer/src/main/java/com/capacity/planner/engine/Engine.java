@@ -1,4 +1,4 @@
-package com.fquick.capacity.manager.engine;
+package com.capacity.planner.engine;
 
 /**
  * Created by ankush.a on 15/03/17.

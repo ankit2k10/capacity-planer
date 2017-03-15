@@ -1,6 +1,7 @@
-package com.fquick.capacity.manager.engine.impl;
+package com.capacity.planner.engine.impl;
 
-import com.fquick.capacity.manager.engine.Engine;
+
+import com.capacity.planner.engine.Engine;
 
 /**
  * Created by ankush.a on 15/03/17.
